@@ -36,3 +36,6 @@ Filters allow for dynamic slicing and dicing of data by year and bank. This is v
 •	Temporal analysis
 •	Custom  Conclusion (Theoretical Perspective)
 This type of financial dashboard is a decision-support tool used by executives, analysts, and regulators to evaluate a bank's financial soundness. By combining visual analytics with financial theory—such as ratio analysis, cash flow management, and cost control—the dashboard enables stakeholders to make data-driven decisions for improving operational and financial efficiency.
+
+Screenshot of dashboard look like 
+https://github.com/Nehaa2103/Performance-Analysis/blob/main/Financial_Performance_Analysis.png
